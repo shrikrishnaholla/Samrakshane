@@ -1,0 +1,9 @@
+Samrakshane, a backup tool written in Python 2.7 that uses the linux system tools to generate backups of target directories.
+It is a non-GUI program that has been written as a test program for learning purposes.
+Requirements: Python 2.7 interpreter
+Just download the source, go to the directory, and run
+python Samrakshane.py
+OR
+save the sources, go to the directory and run the commands-
+chmod +x Samrakshane.py
+./Samrakshane.py
